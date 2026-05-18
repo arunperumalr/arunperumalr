@@ -1,5 +1,5 @@
 ## Hi, I'm Arun
-💻Software Engineer exploring spaces in Java, Python and AI
+💻Software Engineer exploring spaces in Java, Python and Agentic AI
 
 
 ## 🌐 Socials:
